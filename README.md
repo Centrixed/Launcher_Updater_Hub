@@ -1,4 +1,4 @@
-# Software Launcher
+# VR Software Launcher & Updater
 
 The current launcher I built in early 2019 using a .NET WPF application and Dropbox API to update/install our VR software experiences. 
 
